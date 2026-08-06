@@ -1,0 +1,28 @@
+name: Docs Report
+description: Report an issue in ZSvirt documentation
+title: "[Docs]: "
+labels: ["kind/documentation"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong or missing?
+      description: Describe the documentation issue.
+    validations:
+      required: true
+
+  - type: input
+    id: page
+    attributes:
+      label: Documentation link
+      placeholder: https://www.zstack.io/help/zstack_zsphere/product_manuals/
+    validations:
+      required: false
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement
+      description: Tell us how the documentation could be improved.
+    validations:
+      required: false
