@@ -38,11 +38,9 @@
 <p align="center">
   <a href="https://zsvirt.io">Website</a>
   ·
-  <a href="https://zsvirt.io/roadmap/">Roadmap</a>
+  <a href="https://zsvirt.io/video/">Video</a>
   ·
-  <a href="https://github.com/zsvirt/zsvirt">Source Code</a>
-  ·
-  <a href="https://github.com/zsvirt/zsvirt/releases">Releases</a>
+  <a href="https://github.com/zsvirt/zsvirt">Blog</a>
 </p>
 
 <p align="center">
