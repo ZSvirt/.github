@@ -152,78 +152,75 @@ Start small, validate your environment, and scale when you are ready.
   </tr>
 </table>
 
-## Join the Community
-
-ZSvirt is developed openly with users, operators, developers, and infrastructure
-enthusiasts. Questions, ideas, deployment experiences, and contributions are
-all welcome.
+## News and Community
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Ask and Learn</h3>
-      Get help with installation, configuration, operations, and troubleshooting.
+      <h3>News and Releases</h3>
+      Follow technical articles, project announcements, release notes, and
+      development updates.
       <br><br>
-      <a href="https://github.com/orgs/zsvirt/discussions/categories/q-a">
-        <strong>Visit Q&A →</strong>
-      </a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Share and Discuss</h3>
-      Propose ideas, discuss architecture, or share deployments, integrations,
-      and migration experiences.
-      <br><br>
-      <a href="https://github.com/orgs/zsvirt/discussions/categories/ideas">
-        <strong>Propose an idea →</strong>
-      </a>
+      <a href="https://zsvirt.io/blog/"><strong>Read the Blog →</strong></a>
       <br>
-      <a href="https://github.com/orgs/zsvirt/discussions/categories/show-and-tell">
-        <strong>Share your experience →</strong>
-      </a>
+      <a href="https://github.com/zsvirt/zsvirt/releases"><strong>View Releases →</strong></a>
     </td>
     <td width="33%" valign="top">
-      <h3>Contribute</h3>
-      Help improve code, documentation, tests, translations, integrations,
-      automation, or community support.
+      <h3>Project Direction</h3>
+      See what is available today, what the community is currently building,
+      and what is planned next.
       <br><br>
-      <a href="https://github.com/zsvirt/zsvirt/blob/main/CONTRIBUTING.md">
-        <strong>Read the Contribution Guide →</strong>
+      <a href="https://zsvirt.io/roadmap/"><strong>View the Roadmap →</strong></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Community Stories</h3>
+      Share deployments, integrations, migration experiences, operational
+      practices, and real-world use cases.
+      <br><br>
+      <a href="https://github.com/orgs/zsvirt/discussions/categories/show-and-tell">
+        <strong>Share Your Story →</strong>
       </a>
     </td>
   </tr>
 </table>
 
-## Stay Up to Date
+## Getting Involved
 
-Follow project development, product announcements, and new releases.
+ZSvirt welcomes contributions from developers, operators, technical writers,
+testers, translators, and virtualization enthusiasts.
 
-[Blog](https://zsvirt.io/blog/) ·
-[Public Roadmap](https://zsvirt.io/roadmap/) ·
-[Release Notes](https://github.com/zsvirt/zsvirt/releases) ·
-[GitHub Discussions](https://github.com/orgs/zsvirt/discussions)
+You do not need to be a software developer to participate. You can help by:
 
-## Issues and Security
+- Contributing code, integrations, and automated tests
+- Improving documentation, tutorials, and translations
+- Testing releases and verifying bug fixes
+- Reporting reproducible software defects
+- Sharing deployment and migration experiences
+- Helping answer questions from other community members
 
-Found a reproducible software defect?  
-[Open a GitHub Issue](https://github.com/zsvirt/zsvirt/issues/new/choose).
+Read the
+[Contribution Guide](https://github.com/zsvirt/zsvirt/blob/main/CONTRIBUTING.md)
+to get started.
 
-Please do not report security vulnerabilities through public Issues or
-Discussions. Follow the
-[ZSvirt Security Policy](https://github.com/zsvirt/.github/blob/main/SECURITY.md)
-to report vulnerabilities privately.
+## Find the Right Place
+
+| I want to… | Where to go |
+|---|---|
+| Ask an installation or usage question | [Q&A Discussions](https://github.com/orgs/zsvirt/discussions/categories/q-a) |
+| Propose a feature or architecture idea | [Ideas](https://github.com/orgs/zsvirt/discussions/categories/ideas) |
+| Report a reproducible software defect | [GitHub Issues](https://github.com/zsvirt/zsvirt/issues/new/choose) |
+| Report a security vulnerability | [Security Policy](https://github.com/zsvirt/.github/blob/main/SECURITY.md) |
 
 ---
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/zsvirt/.github/blob/main/GOVERNANCE.md">Governance</a>
+</p>
 
-### Open Source Virtualization. Enterprise Ready. Community Driven.
+<p align="center">
+  <strong>Open Source Virtualization. Enterprise Ready, Community Driven.</strong>
+</p>
 
-Built with openness, shaped by operators, and owned by the community.
-
-[Website](https://zsvirt.io) ·
-[Documentation](https://zsvirt.io/docs/) ·
-[Discussions](https://github.com/orgs/zsvirt/discussions) ·
-[Contributing](https://github.com/zsvirt/zsvirt/blob/main/CONTRIBUTING.md) ·
-[Security](https://github.com/zsvirt/.github/blob/main/SECURITY.md)
-
-</div>
+<p align="center">
+  Built with openness, shaped by operators, and owned by the community.
+</p>
