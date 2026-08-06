@@ -44,7 +44,9 @@
 </p>
 
 <p align="center">
-  <a href="./README.md">English</a>
+  <a href="https://github.com/ZSvirt/.github/blob/main/profile/README.md">
+    English
+  </a>
   &nbsp;&middot;&nbsp;
   <strong>简体中文</strong>
 </p>
