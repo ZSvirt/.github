@@ -1,6 +1,12 @@
+我看了当前代码，结论是：
+Logo 不需要压缩图片文件，因为使用的是 GitHub 头像地址；但视觉尺寸建议从 160 调整到 128，首屏会更紧凑。
+Website / Videos / Blog 不建议做成和 Quick Start 一样的彩色按钮。四个主按钮已经足够，它们保持文字链接，页面层次更清楚。
+你现在的 Blog 链接写成了主仓库地址，需要改为 https://zsvirt.io/blog/。
+视频集合建议写成复数 Videos。
+顶部完整代码建议替换为：
 <p align="center">
   <a href="https://zsvirt.io">
-    <img src="https://github.com/zsvirt.png" alt="ZSvirt Logo" width="160">
+    <img src="https://github.com/zsvirt.png" alt="ZSvirt Logo" width="128">
   </a>
 </p>
 
@@ -36,16 +42,18 @@
 </p>
 
 <p align="center">
+  <a href="https://zsvirt.io/docs/quick-start/">Quick Start</a>
+  &nbsp;&middot;&nbsp;
   <a href="https://zsvirt.io">Website</a>
-  ·
-  <a href="https://zsvirt.io/video/">Video</a>
-  ·
-  <a href="https://github.com/zsvirt/zsvirt">Blog</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://zsvirt.io/video/">Videos</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://zsvirt.io/blog/">Blog</a>
 </p>
 
 <p align="center">
   <a href="https://zsvirt.io/en">English</a>
-  ·
+  &nbsp;&middot;&nbsp;
   <a href="https://zsvirt.io">简体中文</a>
 </p>
 
