@@ -38,11 +38,7 @@
 <p align="center">
   <a href="https://zsvirt.io">Website</a>
   ·
-  <a href="https://zsvirt.io/roadmap/">Roadmap</a>
-  ·
   <a href="https://github.com/zsvirt/zsvirt">Source Code</a>
-  ·
-  <a href="https://github.com/zsvirt/zsvirt/releases">Releases</a>
 </p>
 
 <p align="center">
@@ -53,172 +49,138 @@
 
 ---
 
-## What is ZSvirt?
+## About ZSvirt
 
-ZSvirt is an open-source virtualization platform for private clouds,
-enterprise virtualization, and cloud infrastructure.
+ZSvirt provides a unified control plane for compute, storage, networking,
+virtual machine lifecycle management, high availability, observability, and
+infrastructure automation.
 
-It brings compute, storage, networking, virtual machine lifecycle management,
-high availability, observability, and API-driven automation together in one
-platform.
+Designed for private clouds, enterprise virtualization, and IaaS environments,
+ZSvirt gives operators an open foundation that they can inspect, automate,
+extend, and control.
 
-Whether you are building a compact homelab, modernizing an enterprise data
-center, or operating large-scale cloud infrastructure, ZSvirt provides an open
-foundation that you can inspect, automate, extend, and control.
-
-## Why ZSvirt?
+## Core Strengths
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Complete virtualization</h3>
-      Manage hosts, clusters, virtual machines, images, networks, storage,
-      snapshots, migration, backup, and the complete VM lifecycle.
+      <h3>Infrastructure managed as software</h3>
+      Manage compute, networking, storage, and the complete virtual machine
+      lifecycle through unified APIs and centralized control.
     </td>
     <td width="33%" valign="top">
-      <h3>Built for operations</h3>
-      Operate production infrastructure with centralized management,
-      high availability, monitoring, auditing, and automation.
+      <h3>Reliability in the control plane</h3>
+      Asynchronous execution, stateless services, and workflow rollback help
+      complex infrastructure operations remain predictable and recoverable.
     </td>
     <td width="33%" valign="top">
-      <h3>Open by design</h3>
-      Build on an extensible, API-first platform without proprietary
-      vendor lock-in.
+      <h3>Modular by design</h3>
+      Extend resource types, operational capabilities, and integrations through
+      a plugin-oriented architecture while retaining control of your platform.
     </td>
   </tr>
 </table>
 
 ## Deployment Scenarios
 
-| Explore virtualization | Modernize the data center | Build cloud infrastructure |
-|---|---|---|
-| Create a compact environment for evaluation, learning, testing, and homelab workloads. | Run production virtual machines with centralized operations, high availability, migration, backup, and monitoring. | Build private cloud and IaaS environments with API-driven compute, networking, storage, and automation. |
-
-## Start here
-
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>1. Download</h3>
-      Get the latest ZSvirt release and installation resources.
-      <br><br>
-      <a href="https://zsvirt.io/download/"><strong>Download ZSvirt →</strong></a>
+    <td width="50%" valign="top">
+      <h3>Enterprise Virtualization</h3>
+      Consolidate production workloads on centrally managed virtualization
+      clusters with integrated compute, networking, storage, high availability,
+      migration, backup, and monitoring.
     </td>
-    <td width="33%" valign="top">
-      <h3>2. Deploy</h3>
-      Follow the Quick Start to build your first virtualization environment.
+    <td width="50%" valign="top">
+      <h3>VMware Migration</h3>
+      Evaluate and migrate existing VMware workloads to an open virtualization
+      platform while retaining the operational capabilities required by
+      enterprise environments.
       <br><br>
-      <a href="https://zsvirt.io/docs/quick-start/"><strong>Read Quick Start →</strong></a>
+      <a href="https://zsvirt.io/vmware-alternative/">
+        <strong>Explore VMware migration →</strong>
+      </a>
     </td>
-    <td width="33%" valign="top">
-      <h3>3. Explore</h3>
-      Learn about administration, architecture, APIs, and operations.
-      <br><br>
-      <a href="https://zsvirt.io/docs/"><strong>Explore Documentation →</strong></a>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Private Cloud and IaaS</h3>
+      Build API-driven private cloud and IaaS environments with unified
+      management of compute, virtual networking, storage, tenants, permissions,
+      quotas, and infrastructure operations.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Homelab and Evaluation</h3>
+      Start with a compact environment for learning, testing, proof-of-concept
+      deployments, integration validation, and virtualization experimentation.
+      Scale the same platform as your requirements grow.
     </td>
   </tr>
 </table>
 
-## Moving from VMware?
-
-> ZSvirt is built as an open-source, enterprise-grade alternative for
-> organizations seeking greater infrastructure control, operational flexibility,
-> and freedom from proprietary vendor lock-in.
-
-Evaluate ZSvirt capabilities, migration considerations, deployment patterns,
-and recommended transition paths.
-
-[**Explore the VMware alternative guide →**](https://zsvirt.io/vmware-alternative/)
-
-## Project resources
-
-| Resource | Description |
-|---|---|
-| [Website](https://zsvirt.io) | Learn about ZSvirt, its capabilities, and use cases |
-| [Quick Start](https://zsvirt.io/docs/quick-start/) | Build your first ZSvirt environment |
-| [Download](https://zsvirt.io/download/) | Download releases and installation resources |
-| [Documentation](https://zsvirt.io/docs/) | Installation, administration, architecture, and APIs |
-| [Source Code](https://github.com/zsvirt/zsvirt) | Core virtualization and infrastructure management platform |
-| [Releases](https://github.com/zsvirt/zsvirt/releases) | Release notes and downloadable artifacts |
-| [Roadmap](https://zsvirt.io/roadmap/) | Current priorities and planned capabilities |
-| [Discussions](https://github.com/orgs/zsvirt/discussions) | Questions, ideas, and community conversations |
-
-## News and community
+## News and Community
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>News & releases</h3>
-      Follow project announcements, technical articles, releases, and
+      <h3>News and Releases</h3>
+      Follow technical articles, project announcements, release notes, and
       development updates.
       <br><br>
-      <a href="https://zsvirt.io/blog/">Blog</a>
-      ·
-      <a href="https://github.com/zsvirt/zsvirt/releases">Releases</a>
+      <a href="https://zsvirt.io/blog/"><strong>Read the Blog →</strong></a>
+      <br>
+      <a href="https://github.com/zsvirt/zsvirt/releases"><strong>View Releases →</strong></a>
     </td>
     <td width="33%" valign="top">
-      <h3>Join the conversation</h3>
-      Ask questions, discuss ideas, and connect with users, operators,
-      and contributors.
+      <h3>Project Direction</h3>
+      See what is available today, what the community is currently building,
+      and what is planned next.
       <br><br>
-      <a href="https://github.com/orgs/zsvirt/discussions">Discussions</a>
-      ·
-      <a href="https://github.com/orgs/zsvirt/discussions/categories/q-a">Q&A</a>
+      <a href="https://zsvirt.io/roadmap/"><strong>View the Roadmap →</strong></a>
     </td>
     <td width="33%" valign="top">
-      <h3>Share your experience</h3>
-      Share deployment practices, integrations, migration experiences,
-      and real-world use cases.
+      <h3>Community Stories</h3>
+      Share deployments, integrations, migration experiences, operational
+      practices, and real-world use cases.
       <br><br>
-      <a href="https://github.com/orgs/zsvirt/discussions/categories/show-and-tell">Show and tell</a>
+      <a href="https://github.com/orgs/zsvirt/discussions/categories/show-and-tell">
+        <strong>Share Your Story →</strong>
+      </a>
     </td>
   </tr>
 </table>
 
-## Getting involved
+## Getting Involved
 
-Interested in helping ZSvirt grow? We welcome contributions from everyone.
+ZSvirt welcomes contributions from developers, operators, technical writers,
+testers, translators, and virtualization enthusiasts.
 
-You do not need to be a software developer to participate. There are many ways
-to make a meaningful contribution:
+You do not need to be a software developer to participate. You can help by:
 
-- Improve documentation and tutorials
-- Translate documentation and community content
-- Test releases and verify bug fixes
-- Report reproducible software defects
-- Propose features and architecture improvements
-- Share deployment and migration experiences
-- Create integrations and automation tools
-- Contribute code and automated tests
-- Help answer community questions
+- Contributing code, integrations, and automated tests
+- Improving documentation, tutorials, and translations
+- Testing releases and verifying bug fixes
+- Reporting reproducible software defects
+- Sharing deployment and migration experiences
+- Helping answer questions from other community members
 
-Start with the
+Read the
 [Contribution Guide](https://github.com/zsvirt/zsvirt/blob/main/CONTRIBUTING.md)
-or introduce yourself in
-[GitHub Discussions](https://github.com/orgs/zsvirt/discussions).
+to get started.
 
-## Find the right place
+## Find the Right Place
 
 | I want to… | Where to go |
 |---|---|
 | Ask an installation or usage question | [Q&A Discussions](https://github.com/orgs/zsvirt/discussions/categories/q-a) |
 | Propose a feature or architecture idea | [Ideas](https://github.com/orgs/zsvirt/discussions/categories/ideas) |
-| Share a deployment or integration | [Show and tell](https://github.com/orgs/zsvirt/discussions/categories/show-and-tell) |
 | Report a reproducible software defect | [GitHub Issues](https://github.com/zsvirt/zsvirt/issues/new/choose) |
-| Contribute code or documentation | [Contribution Guide](https://github.com/zsvirt/zsvirt/blob/main/CONTRIBUTING.md) |
 | Report a security vulnerability | [Security Policy](https://github.com/zsvirt/.github/blob/main/SECURITY.md) |
-| Follow project development | [Public Roadmap](https://zsvirt.io/roadmap/) |
 
 ---
 
 <p align="center">
   <a href="https://github.com/zsvirt/.github/blob/main/GOVERNANCE.md">Governance</a>
-  ·
-  <a href="https://github.com/zsvirt/zsvirt/blob/main/CONTRIBUTING.md">Contributing</a>
-  ·
-  <a href="https://github.com/zsvirt/.github/blob/main/SECURITY.md">Security</a>
-  ·
-  <a href="https://zsvirt.io/roadmap/">Roadmap</a>
 </p>
 
 <p align="center">
