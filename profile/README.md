@@ -88,11 +88,33 @@ foundation that you can inspect, automate, extend, and control.
   </tr>
 </table>
 
-## Built for every scale
+## Why ZSvirt?
 
-| Homelab | Enterprise Data Center | Cloud & IaaS |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Infrastructure managed as software</h3>
+      Manage compute, networking, storage, and the complete virtual machine
+      lifecycle through unified APIs and centralized control.
+    </td>
+    <td width="33%" valign="top">
+      <h3>Reliability built into the control plane</h3>
+      Asynchronous execution, stateless services, and workflow rollback help
+      complex infrastructure operations remain predictable and recoverable.
+    </td>
+    <td width="33%" valign="top">
+      <h3>Modular without vendor lock-in</h3>
+      Extend resource types, operational capabilities, and integrations through
+      a plugin-oriented architecture while retaining control of your platform.
+    </td>
+  </tr>
+</table>
+
+## Where ZSvirt fits
+
+| Explore virtualization | Modernize the data center | Build cloud infrastructure |
 |---|---|---|
-| Build and explore a complete virtualization environment with a streamlined deployment experience. | Operate production workloads with centralized management, migration, high availability, backup, and monitoring. | Automate compute, storage, and networking at scale on an open infrastructure foundation. |
+| Create a compact environment for evaluation, learning, testing, and homelab workloads. | Run production virtual machines with centralized operations, high availability, migration, backup, and monitoring. | Build private cloud and IaaS environments with API-driven compute, networking, storage, and automation. |
 
 ## Start here
 
