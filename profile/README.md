@@ -36,8 +36,6 @@
 </p>
 
 <p align="center">
-  <a href="https://zsvirt.io/docs/quick-start/">Quick Start</a>
-  &nbsp;&middot;&nbsp;
   <a href="https://zsvirt.io">Website</a>
   &nbsp;&middot;&nbsp;
   <a href="https://zsvirt.io/video/">Videos</a>
