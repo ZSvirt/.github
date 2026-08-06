@@ -1,0 +1,55 @@
+name: Feature Request
+description: Suggest an improvement or new capability for ZSvirt
+title: "[zsvirt] feat: "
+labels: ["type:enhancement"]
+body:
+  - type: dropdown
+    id: component
+    attributes:
+      label: Component
+      description: Which component is this request related to?
+      options:
+        - zsvirt
+        - zsvirt-utility
+        - ui
+        - docs
+        - other
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or use case
+      description: What problem are you trying to solve?
+      placeholder: Describe the scenario, pain point, or user need.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: What would you like to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Have you considered any workaround or alternative solution?
+    validations:
+      required: false
+
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: What conditions should be met for this issue to be considered complete?
+      placeholder: |
+        - ...
+        - ...
+        - ...
+    validations:
+      required: falsedsf
