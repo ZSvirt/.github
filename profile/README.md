@@ -88,29 +88,7 @@ foundation that you can inspect, automate, extend, and control.
   </tr>
 </table>
 
-## Why ZSvirt?
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Infrastructure managed as software</h3>
-      Manage compute, networking, storage, and the complete virtual machine
-      lifecycle through unified APIs and centralized control.
-    </td>
-    <td width="33%" valign="top">
-      <h3>Reliability built into the control plane</h3>
-      Asynchronous execution, stateless services, and workflow rollback help
-      complex infrastructure operations remain predictable and recoverable.
-    </td>
-    <td width="33%" valign="top">
-      <h3>Modular without vendor lock-in</h3>
-      Extend resource types, operational capabilities, and integrations through
-      a plugin-oriented architecture while retaining control of your platform.
-    </td>
-  </tr>
-</table>
-
-## Where ZSvirt fits
+## Deployment Scenarios
 
 | Explore virtualization | Modernize the data center | Build cloud infrastructure |
 |---|---|---|
