@@ -122,6 +122,42 @@ extend, and control.
   </tr>
 </table>
 
+## Get Started
+
+Start small, validate your environment, and scale when you are ready.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>1. Download ZSvirt</h3>
+      Get the latest ZSvirt release and the resources required to prepare
+      your environment.
+      <br><br>
+      <a href="https://zsvirt.io/download/">
+        <strong>Download ZSvirt →</strong>
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>2. Deploy Your First Environment</h3>
+      Follow the Quick Start to prepare your infrastructure, deploy ZSvirt,
+      and create your first virtual machine.
+      <br><br>
+      <a href="https://zsvirt.io/docs/quick-start/">
+        <strong>Follow the Quick Start →</strong>
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>3. Explore and Operate</h3>
+      Learn about installation, administration, architecture, APIs,
+      high availability, and production operations.
+      <br><br>
+      <a href="https://zsvirt.io/docs/">
+        <strong>Explore the Documentation →</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## News and Community
 
 <table>
