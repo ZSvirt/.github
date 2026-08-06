@@ -1,4 +1,4 @@
-<p align="center">
+p align="center">
   <a href="https://zsvirt.io">
     <img src="https://github.com/zsvirt.png" alt="ZSvirt Logo" width="160">
   </a>
@@ -38,7 +38,11 @@
 <p align="center">
   <a href="https://zsvirt.io">Website</a>
   ·
+  <a href="https://zsvirt.io/roadmap/">Roadmap</a>
+  ·
   <a href="https://github.com/zsvirt/zsvirt">Source Code</a>
+  ·
+  <a href="https://github.com/zsvirt/zsvirt/releases">Releases</a>
 </p>
 
 <p align="center">
