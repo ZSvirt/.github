@@ -44,9 +44,11 @@
 </p>
 
 <p align="center">
-  <a href="https://zsvirt.io/en">English</a>
+  <strong>English</strong>
   &nbsp;&middot;&nbsp;
-  <a href="https://zsvirt.io">简体中文</a>
+  <a href="https://github.com/ZSvirt/.github/blob/main/profile/README_zh-CN.md">
+    简体中文
+  </a>
 </p>
 
 ---
