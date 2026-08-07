@@ -1,8 +1,14 @@
-<p align="center">
+<div align="center">
   <a href="https://zsvirt.io">
-    <img src="https://github.com/zsvirt.png" alt="ZSvirt Logo" width="128">
+    <img
+      src="https://raw.githubusercontent.com/zsvirt/.github/main/assets/zsvirt-logo.svg"
+      alt="ZSvirt Logo"
+      width="120"
+    >
   </a>
-</p>
+
+  <h1>ZSvirt</h1>
+</div>
 
 <h1 align="center">Open Source Virtualization for Everyone</h1>
 
