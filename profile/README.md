@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://zsvirt.io">
     <img
-      src="https://raw.githubusercontent.com/zsvirt/.github/main/assets/zsvirt-logo.svg"
+      src="https://raw.githubusercontent.com/zsvirt/.github/main/assets/zsvirt-logo.jpg"
       alt="ZSvirt Logo"
       width="180"
     >
