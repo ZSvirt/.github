@@ -3,11 +3,9 @@
     <img
       src="https://raw.githubusercontent.com/zsvirt/.github/main/assets/zsvirt-logo.svg"
       alt="ZSvirt Logo"
-      width="120"
+      width="180"
     >
   </a>
-
-  <h1>ZSvirt</h1>
 </div>
 
 <h1 align="center">Open Source Virtualization for Everyone</h1>
