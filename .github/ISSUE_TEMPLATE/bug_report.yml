@@ -1,4 +1,4 @@
-name: Bug Report
+name: 🐛Bug Report
 description: Report a reproducible problem in ZSvirt
 title: "[ZSvirt] bug: "
 labels: ["type:bug"]
