@@ -55,7 +55,7 @@
 
 Follow ZSvirt on our official social media channels for the latest releases, product updates, technical insights, and community news. Join the conversation, share your feedback, and connect with other ZSvirt users and contributors.
 
-[![YouTube](...)](https://youtube.com/@ZSvirt)
-[![LinkedIn](...)](https://www.linkedin.com/in/zsvirt-community/)
-[![X](...)](https://x.com/ZSvirt)
-[![Reddit](...)](https://www.reddit.com/r/ZSvirt/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@ZSvirt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zsvirt-community/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ZSvirt)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/r/ZSvirt/)
