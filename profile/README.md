@@ -23,13 +23,19 @@
 </p>
 
 <p align="center">
+  <a href="https://zsvirt.io/en">
+    <img
+      src="https://img.shields.io/badge/Website-0F62FE?style=flat-square&logo=googlechrome&logoColor=white"
+      alt="ZSvirt Website"
+    >
+  </a>
   <a href="https://zsvirt.io/en/docs">
     <img
       src="https://img.shields.io/badge/Documentation-2563EB?style=flat-square&logo=readthedocs&logoColor=white"
       alt="Documentation"
     >
   </a>
-  <a href="CONTRIBUTING_URL">
+  <a href="https://github.com/ZSvirt/zsvirt#contributing">
     <img
       src="https://img.shields.io/badge/Contributing-181717?style=flat-square&logo=github&logoColor=white"
       alt="Contributing"
