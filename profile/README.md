@@ -23,16 +23,10 @@
 </p>
 
 <p align="center">
-  <a href="DOCUMENTATION_URL">
+  <a href="https://zsvirt.io/en/docs">
     <img
       src="https://img.shields.io/badge/Documentation-2563EB?style=flat-square&logo=readthedocs&logoColor=white"
       alt="Documentation"
-    >
-  </a>
-  <a href="QUICK_START_URL">
-    <img
-      src="https://img.shields.io/badge/Quick%20Start-16A34A?style=flat-square&logo=rocket&logoColor=white"
-      alt="Quick Start"
     >
   </a>
   <a href="CONTRIBUTING_URL">
