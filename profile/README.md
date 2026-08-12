@@ -57,8 +57,8 @@
 
 ## Join the Community
 
-Connect with the ZSvirt community, follow project updates, share your ideas, and help shape the future of open-source virtualization.
+Follow ZSvirt on our official social media channels for the latest releases, product updates, technical insights, and community news. Join the conversation, share your feedback, and connect with other ZSvirt users and contributors.
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/r/ZSvirt/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zsvirt-community/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ZSvirt)
+[![X](https://img.shields.io/badge/Follow%20on%20X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ZSvirt)
