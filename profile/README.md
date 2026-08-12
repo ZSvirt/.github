@@ -9,7 +9,8 @@
 </div>
 
 <h1 align="center">
-  Open Source Virtualization 
+  Open Source Virtualization
+  <br>
   Enterprise Ready, Community Driven
 </h1>
 
