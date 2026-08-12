@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://zsvirt.io">
+  <a href="https://zsvirt.io/en">
     <img
       src="https://raw.githubusercontent.com/zsvirt/.github/main/assets/zsvirt-logo.jpg"
       alt="ZSvirt Logo"
@@ -47,14 +47,13 @@
       alt="Product Video"
     >
   </a>
-  <a href="http://47.76.185.188:11993/blog">
+  <a href="https://zsvirt.io/en/blog">
     <img
       src="https://img.shields.io/badge/Blog-F97316?style=flat-square&logo=rss&logoColor=white"
       alt="Blog"
     >
   </a>
 </p>
-
 
 ## Join the Community
 
