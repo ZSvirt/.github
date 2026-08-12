@@ -55,3 +55,11 @@
   </a>
 </p>
 
+
+## Join the Community
+
+Connect with the ZSvirt community, follow project updates, share your ideas, and help shape the future of open-source virtualization.
+
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/r/ZSvirt/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zsvirt-community/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ZSvirt)
