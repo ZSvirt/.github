@@ -9,7 +9,8 @@
 </div>
 
 <h1 align="center">
-  Open Source Virtualization Enterprise Ready, Community Driven
+  Open Source Virtualization 
+  Enterprise Ready, Community Driven
 </h1>
 
 <p align="center">
@@ -31,26 +32,20 @@
   </a>
   <a href="https://zsvirt.io/en/docs">
     <img
-      src="https://img.shields.io/badge/Documentation-2563EB?style=flat-square&logo=readthedocs&logoColor=white"
+      src="https://img.shields.io/badge/Docs-2563EB?style=flat-square&logo=readthedocs&logoColor=white"
       alt="Documentation"
     >
   </a>
-  <a href="https://github.com/ZSvirt/zsvirt#contributing">
+  <a href="https://demo.zsvirt.io/">
     <img
-      src="https://img.shields.io/badge/Contributing-181717?style=flat-square&logo=github&logoColor=white"
-      alt="Contributing"
+      src="https://img.shields.io/badge/Live%20Demo-16A34A?style=flat-square&logo=internetcomputer&logoColor=white"
+      alt="Live Demo"
     >
   </a>
-  <a href="https://youtu.be/c6pYmlIoPIU">
+  <a href="https://zsvirt.io/en/download">
     <img
-      src="https://img.shields.io/badge/Product%20Video-FF0000?style=flat-square&logo=youtube&logoColor=white"
-      alt="Product Video"
-    >
-  </a>
-  <a href="https://zsvirt.io/en/blog">
-    <img
-      src="https://img.shields.io/badge/Blog-F97316?style=flat-square&logo=rss&logoColor=white"
-      alt="Blog"
+      src="https://img.shields.io/badge/Download-F97316?style=flat-square&logo=download&logoColor=white"
+      alt="Download"
     >
   </a>
 </p>
@@ -59,6 +54,7 @@
 
 Follow ZSvirt on our official social media channels for the latest releases, product updates, technical insights, and community news. Join the conversation, share your feedback, and connect with other ZSvirt users and contributors.
 
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/r/ZSvirt/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zsvirt-community/)
-[![X](https://img.shields.io/badge/Follow%20on%20X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ZSvirt)
+[![YouTube](...)](https://youtube.com/@ZSvirt)
+[![LinkedIn](...)](https://www.linkedin.com/in/zsvirt-community/)
+[![X](...)](https://x.com/ZSvirt)
+[![Reddit](...)](https://www.reddit.com/r/ZSvirt/)
