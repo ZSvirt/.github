@@ -5,7 +5,7 @@
    viewBox="0 0 1400 1700"
    version="1.1"
    id="svg81"
-   sodipodi:docname="zsphere-architecture-detailed.svg"
+   sodipodi:docname="zsphere-architecture.svg"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,7 +22,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.6920649"
      inkscape:cx="547.85132"
-     inkscape:cy="132.08713"
+     inkscape:cy="273.92566"
      inkscape:window-width="3840"
      inkscape:window-height="2054"
      inkscape:window-x="3349"
@@ -31,6 +31,12 @@
      inkscape:current-layer="svg81" />
   <defs
      id="defs1">
+    <rect
+       x="849.25819"
+       y="322.68265"
+       width="34.868638"
+       height="122.92672"
+       id="rect98" />
     <rect
        x="997.59765"
        y="612.26965"
@@ -129,129 +135,64 @@
          fill="#a9b4bf"
          id="path1" />
     </marker>
+    <marker
+       id="arrow-8"
+       markerWidth="8"
+       markerHeight="8"
+       refX="7"
+       refY="3"
+       orient="auto">
+      <path
+         d="M 0,0 V 6 L 7,3 Z"
+         fill="#a9b4bf"
+         id="path1-5" />
+    </marker>
   </defs>
-  <rect
-     width="1400"
-     height="1700"
-     fill="#ffffff"
-     id="rect1" />
   <text
-     x="205.83853"
-     y="247.10684"
+     x="143.19318"
+     y="336.9379"
      class="title"
      id="text1"
      style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:46px;line-height:normal;font-family:Arial, sans-serif">ZSvirt Architecture</text>
   <!-- Access path -->
   <rect
-     x="786"
-     y="38"
+     x="749.94934"
+     y="173.9286"
      width="78"
      height="58"
      rx="3"
      class="service-premium"
      id="rect2" />
   <text
-     x="825"
-     y="72"
+     x="791.9043"
+     y="209.70157"
      text-anchor="middle"
      class="small"
-     id="text2">User</text>
+     id="text2"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;line-height:normal;font-family:Arial, sans-serif">User</text>
   <path
-     d="M825 96 L825 128"
+     d="m 791.31335,233.70157 v 43.22889"
      class="line"
      id="path2" />
-  <ellipse
-     cx="825"
-     cy="158"
-     rx="56"
-     ry="30"
-     fill="#b7d8fb"
-     stroke="#8ebde6"
-     id="ellipse2" />
-  <text
-     x="825"
-     y="164"
-     text-anchor="middle"
-     class="label"
-     fill="#2874b8"
-     id="text3">Browser</text>
-  <path
-     d="M825 188 L825 222"
-     class="line"
-     id="path3" />
   <rect
-     x="732"
-     y="222"
-     width="186"
-     height="52"
-     rx="3"
-     class="service-ui"
-     id="rect3" />
-  <text
-     x="825"
-     y="253"
-     text-anchor="middle"
-     class="label"
-     fill="#4f9b35"
-     id="text4">LB / VIP</text>
-  <text
-     x="825"
-     y="269"
-     text-anchor="middle"
-     class="hint"
-     id="text5">optional</text>
-  <path
-     d="M825 274 L825 304"
-     class="line"
-     id="path5" />
-  <rect
-     x="732"
-     y="304"
-     width="186"
-     height="80"
-     rx="3"
-     class="service-ui"
-     id="rect5" />
-  <text
-     x="825"
-     y="340"
-     text-anchor="middle"
-     class="label"
-     fill="#4f9b35"
-     id="text6">UI Server</text>
-  <text
-     x="825"
-     y="362"
-     text-anchor="middle"
-     class="tiny"
-     id="text7">external frontend</text>
-  <path
-     d="M825 384 L825 410"
-     class="line"
-     id="path7" />
-  <rect
-     x="732"
-     y="410"
+     x="697.72229"
+     y="274.07138"
      width="186"
      height="80"
      rx="3"
      class="service-tool"
-     id="rect7" />
+     id="rect7"
+     style="fill:#7fe9a6;fill-opacity:1" />
   <text
-     x="825"
-     y="440"
+     x="790.96863"
+     y="315.547"
      text-anchor="middle"
      class="label"
-     fill="#3c73af"
-     id="text8">RestServer</text>
-  <text
-     x="825"
-     y="462"
-     text-anchor="middle"
-     class="tiny"
-     id="text9">HTTP REST</text>
+     fill="#4f9b35"
+     id="text6"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:Arial, sans-serif;fill:#42546a">Web Console</text>
   <path
-     d="M825 490 L825 555"
+     d="m 791.90434,475.81615 v 37.81428"
      class="line"
      id="path9" />
   <!-- Main service area -->
@@ -261,7 +202,8 @@
      width="1272"
      height="720"
      class="panel"
-     id="rect9" />
+     id="rect9"
+     style="fill:#e7e731;fill-opacity:1" />
   <rect
      x="1049.7982"
      y="926.32135"
@@ -400,7 +342,8 @@
      height="72.712883"
      rx="2.9969342"
      class="service-premium"
-     id="rect12" />
+     id="rect12"
+     style="fill:#f8effb;fill-opacity:1" />
   <text
      x="224"
      y="664.01477"
@@ -423,7 +366,8 @@
      height="70"
      rx="3"
      class="service-premium"
-     id="rect14" />
+     id="rect14"
+     style="fill:#f4e8e8;fill-opacity:1" />
   <text
      x="220.65685"
      y="769.40216"
@@ -446,7 +390,8 @@
      height="64"
      rx="3"
      class="service-premium"
-     id="rect16" />
+     id="rect16"
+     style="fill:#f2e3f9;fill-opacity:1" />
   <text
      x="217.31367"
      y="873.74536"
@@ -561,7 +506,7 @@
      text-anchor="middle"
      class="tiny"
      id="text26"
-     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11px;line-height:normal;font-family:Arial, sans-serif">Port Group</text>
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11px;line-height:normal;font-family:Arial, sans-serif">Distributed Port Group</text>
   <rect
      x="431.67157"
      y="773.59589"
@@ -576,7 +521,7 @@
      text-anchor="middle"
      class="tiny"
      id="text27"
-     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11px;line-height:normal;font-family:Arial, sans-serif">VXLAN / SDN</text>
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11px;line-height:normal;font-family:Arial, sans-serif">VXLAN /</text>
   <rect
      x="434.17896"
      y="821.64008"
@@ -1291,45 +1236,71 @@
   <text
      xml:space="preserve"
      id="text82"
-     style="fill:#000000;text-orientation:auto;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect82)" />
+     style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect82);display:inline;fill:#000000" />
   <text
      xml:space="preserve"
      id="text83"
-     style="fill:#000000;text-orientation:auto;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect83)" />
+     style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect83);display:inline;fill:#000000" />
   <text
      xml:space="preserve"
      id="text84"
-     style="fill:#000000;text-orientation:auto;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect84)" />
+     style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect84);display:inline;fill:#000000" />
   <text
      xml:space="preserve"
      id="text85"
-     style="fill:#000000;text-orientation:auto;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect85)" />
+     style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect85);display:inline;fill:#000000" />
   <text
      xml:space="preserve"
      id="text86"
-     style="fill:#000000;text-orientation:auto;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect86)" />
+     style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect86);display:inline;fill:#000000" />
   <text
      xml:space="preserve"
      id="text87"
-     style="fill:#000000;text-orientation:auto;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect87)" />
+     style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect87);display:inline;fill:#000000" />
   <text
      xml:space="preserve"
      id="text88"
-     style="fill:#000000;text-orientation:auto;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect88)" />
+     style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect88);display:inline;fill:#000000" />
   <text
      xml:space="preserve"
      id="text89"
-     style="fill:#000000;text-orientation:auto;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect89)" />
+     style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect89);display:inline;fill:#000000" />
   <text
      xml:space="preserve"
      id="text90"
-     style="fill:#000000;text-orientation:auto;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect90)" />
+     style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect90);display:inline;fill:#000000" />
   <text
      xml:space="preserve"
      id="text91"
-     style="fill:#000000;text-orientation:auto;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect91)" />
+     style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect91);display:inline;fill:#000000" />
   <text
      xml:space="preserve"
      id="text92"
-     style="fill:#000000;text-orientation:auto;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect92)" />
+     style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect92);display:inline;fill:#000000" />
+  <rect
+     x="698.427"
+     y="399.6969"
+     width="186"
+     height="80"
+     rx="3"
+     class="service-tool"
+     id="rect7-4"
+     style="fill:#7fe9a6;fill-opacity:1;stroke:#bdcbef;stroke-width:1" />
+  <text
+     x="791.75916"
+     y="437.80579"
+     text-anchor="middle"
+     class="label"
+     fill="#3c73af"
+     id="text8-2"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14px;line-height:normal;font-family:Arial, sans-serif;fill:#426a4f;fill-opacity:1">API Gateway</text>
+  <text
+     xml:space="preserve"
+     id="text98"
+     style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect98);display:inline;fill:#d3d319;fill-opacity:1" />
+  <path
+     d="m 791.78677,352.90808 v 46.18386"
+     class="line"
+     id="path2-6"
+     style="fill:none;stroke:#a9b4bf;stroke-width:1.32148;marker-end:url(#arrow-8)" />
 </svg>
